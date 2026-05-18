@@ -2,11 +2,10 @@
 
 ## Informações do Aluno
 
-- **Nome:** [Seu Nome Completo]
-- **RM:** [Seu RM]
-- **Turma:** [Sua Turma]
-- **Curso:** [Seu Curso]
-- **GitHub:** [@seu-usuario]
+- **Nome:** Bruna Marques e Queiroz
+- **RM:** 565648
+- **Turma:** 2CCPW
+- **Curso:** Ciência da Computação
 
 ---
 
